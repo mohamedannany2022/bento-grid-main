@@ -1,0 +1,16 @@
+#mc{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+    grid-template-rows: 100px 100px 100px 100px;
+
+    gap: 2px;
+    grid-template-areas: 
+      " create-sched,Social-Media,Social-Media,schedule"
+      "create-sched,manage-multi,Maintain,schedule"
+      "";
+    
+}
+
+.box{
+    border: 5px solid;
+}
