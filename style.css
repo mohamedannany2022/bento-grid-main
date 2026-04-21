@@ -137,7 +137,7 @@ overflow-y: auto;
   width: 14%;
   position: absolute;
   top: 150px;
-  left: 900px;
+  left: 1010px;
 }
 
 #b5 p{
@@ -184,7 +184,7 @@ background-color: hsl(256, 67%, 59%);
 }
 #b6 p{
         position: absolute;
-         left: 200px;
+         left: 300px;
          z-index: 5;
          width: 300px;
          font-size: 35px;
@@ -194,7 +194,7 @@ background-color: hsl(256, 67%, 59%);
     position: absolute;
     z-index: 1;
      width: 200px;
-
+ left: 100px;
     
 }
 
